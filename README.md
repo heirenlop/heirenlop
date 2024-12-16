@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SLAM**
 
-- 📫 How to reach me **13122356672@163.com**
+- 📫 How to reach me **heirenlop@gmail.com / 13122356672@163.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
