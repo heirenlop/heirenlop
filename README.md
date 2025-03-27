@@ -6,7 +6,7 @@
 - 📫 How to reach me
   - Email： **heirenlop@gmail.com or 13122356672@163.com**
   - WeChat： **heirenlop**
-  - Whatsapp： ** +86 13122356672**
+  - Whatsapp： **+86 13122356672**
   
 - 💻 Welcome to my personal website: **https://heirenlop.github.io/**
 
