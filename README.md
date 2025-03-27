@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm lijialu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heirenlop&label=Profile%20views&color=0e75b6&style=flat" alt="heirenlop" /> </p>
 
-- 🌱 I am currently a PhD candidate at Harbin Institute of Technology, with research focusing on **3D Gaussian Splatting, Machine Learning, and V-SLAM**.
+- 🌱 I am currently a Ph.D. candidate at Harbin Institute of Technology, with research focusing on **3D Gaussian Splatting, Machine Learning, and V-SLAM**. During my Master's, I mainly focused on **LiDAR-SLAM**. After graduating with my Master's degree, I worked for about 3 years at the SAIC Motor R&D Institute, where I was involved in autonomous driving **localization and mapping**.
 
 - 📫 How to reach me
+  - 微信： **heirenlop**
   - Email： **heirenlop@gmail.com or 13122356672@163.com**
-  - WeChat： **heirenlop**
   - Whatsapp： **+86 13122356672**
   
-- 💻 Welcome to my personal website: **[heirenlop's BLOG](https://heirenlop.github.io/)**
-- 📁 My online CV: **[English CV](https://heirenlop.github.io/en/resume/) | [我的简历](https://heirenlop.github.io/resume/)**
+- 💻 Welcome to my personal website: **[My Blog](https://heirenlop.github.io/en/) | [我的博客](https://heirenlop.github.io/)**
+  
+- 📁 My online CV: **[My CV](https://heirenlop.github.io/en/resume/) | [我的简历](https://heirenlop.github.io/resume/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
