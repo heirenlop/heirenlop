@@ -8,7 +8,8 @@
   - WeChat： **heirenlop**
   - Whatsapp： **+86 13122356672**
   
-- 💻 Welcome to my personal website: **https://heirenlop.github.io/**
+- 💻 Welcome to my personal website: **[heirenlop's BLOG](https://heirenlop.github.io/)**
+- 📁 My online CV: **[English CV](https://heirenlop.github.io/en/resume/) | [我的简历](https://heirenlop.github.io/resume/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
