@@ -37,7 +37,7 @@
 <h1 align="center">Hi 👋, 我是李佳潞</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heirenlop&label=Profile%20views&color=0e75b6&style=flat" alt="heirenlop" /> </p>
 
-- 🌱 我现在是一名哈工大的博士生，研究方向是**3D Gaussian Splatting，机器学习和视觉SLAM**。硕士的研究方向是**激光雷达SLAM**，说是毕业在上汽研发总院干了3年左右的**定位建图**算法工程师。
+- 🌱 我现在是一名哈工大的博士生，研究方向是**3D Gaussian Splatting，机器学习和视觉SLAM**，在此之前在上汽研发总院干了3年左右的**定位建图**算法工程师。硕士期间的研究方向是**激光雷达SLAM**。
 
 - 📫 联系
   - 微信： **heirenlop**
