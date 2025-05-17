@@ -8,9 +8,9 @@
   - Email： **heirenlop@gmail.com or 13122356672@163.com**
   - Whatsapp： **+86 13122356672**
   
-- 💻 Welcome to my personal website: **[My Blog](https://heirenlop.github.io/en/)**
+- 💻 Welcome to my personal website: **[My Blog](https://heirenlop.com/en/)**
   
-- 📁 My online CV: **[My CV](https://heirenlop.github.io/en/resume/)**
+- 📁 My online CV: **[My CV](https://heirenlop.com/en/resume/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,9 +49,9 @@
   - 邮箱： **heirenlop@gmail.com or 13122356672@163.com**
   - Whatsapp： **+86 13122356672**
   
-- 💻 欢迎进入我的博客: **[我的博客](https://heirenlop.github.io/)**
+- 💻 欢迎进入我的博客: **[我的博客](https://heirenlop.com/)**
   
-- 📁 线上简历: **[我的简历](https://heirenlop.github.io/resume/)**
+- 📁 线上简历: **[我的简历](https://heirenlop.com/resume/)**
 
 <h3 align="left">社交媒体:</h3>
 <p align="left">
